@@ -22,6 +22,8 @@
 ###### [348蓝光电影](https://www.348z.com/)
 ###### [猴油中文网](https://bbs.tampermonkey.net.cn/)
 ###### [猴油脚本](https://greasyfork.org/en/scripts)
+###### [视界家](http://www.shijiejia.vip/download/)
+###### [在线txt直播源](https://ldpc520.github.io/list.txt)
 
 
 
@@ -42,9 +44,16 @@
 
 ### 05个人类
 ###### [电信改套餐](https://hb.189.cn/pages/activity/dxwt/hlwkbg.jsp)
-###### [电信改套餐](https://hb.189.cn/pages/activity/dxwt/hlwkbg.jsp)
+###### [住建部](https://www.mohurd.gov.cn/)
 
 ### 06CAD类
+###### [我要自学网](https://www.51zxw.net/)
+###### [徐珂结构总结博客](http://www.jiegoublog.cn/)
+###### [Helchan小站](http://helchan.ysepan.com/)
+###### [严从志小站](http://ycz007.ysepan.com/)
+###### [陈博结构博客](http://www.dinochen.com/)
+###### [AST胡工](https://i.youku.com/asthugong)
+
 ###### cad画图时弹出标注样式管理器,怎么关掉？具体方法：依次在CAD命令栏中输入pickfirst — 回车键 — 1 。qaflags —回车键— 0。
 ###### 完美解决：一、双击图纸打开一个新的CAD窗口，解决办法：输入命令taskbar，然后 改成0。 二、dwg文件如何默认探索者2015打开：探索者-工具-选项-文件-支持文件搜索路径-先点添加，出现光标闪烁，点浏览："D:\Program Files\TszCAD\Tssd2015\sys18"-点上移到第一位---再点添加，出现光标闪烁，点浏览："D:\Program Files\TszCAD\Tssd2015\prg"-点上移到第二位--关闭CAD---双击图纸---你会发现默认探索者打开了。
 
