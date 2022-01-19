@@ -1,4 +1,5 @@
 01凤凰,#genre#
+CCTV13, http://117.169.120.140:8080/live/cctv-13/.m3u8
 凤凰中文 10M1080,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰中文 10M720,http://183.207.248.170/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
 凤凰中文 10M1080,http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
