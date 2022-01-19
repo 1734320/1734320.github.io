@@ -18,8 +18,9 @@
 
 
 #### 03直播源
-###### [*直播源TVa](https://1734320.github.io/tva.txt)
-###### [*标准协议直播源多](https://github.com/SPX372928/MyIPTV)
+###### [直播源TVa](https://1734320.github.io/tva.txt)
+###### [标准协议直播源多](https://github.com/SPX372928/MyIPTV)
+
 ###### [分享者](https://www.sharerw.com/)
 ###### [低端影视](https://ddrk.me/tag/douban-top250/)
 ###### [348蓝光电影](https://www.348z.com/)
@@ -27,7 +28,9 @@
 ###### [猴油脚本](https://greasyfork.org/en/scripts)
 ###### [视界家](http://www.shijiejia.vip/download/)
 ###### [在线txt直播源](https://ldpc520.github.io/list.txt)
-###### [在线txt直播源2](https://ldpc520.github.io/list.txt)http://82.156.222.77/iptv/tv.txt
+######   http://82.156.222.77/iptv/tv.txt
+######   https://raw.fastgit.org/biancangming/wtv/master/txt/all.txt
+######   https://raw.fastgit.org/biancangming/wtv/master/txt/cn.txt
 
 
 #### 04软件装机
