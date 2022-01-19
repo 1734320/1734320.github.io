@@ -1,16 +1,6 @@
-README
-===========================
+####  [预览博客](https://1734320.github.io/)
+####  [GitHub代码教程](https://github.com/guodongxiaren/README/blob/master/README.md)
 
-[![Join the chat at https://gitter.im/guodongxiaren/README](https://badges.gitter.im/guodongxiaren/README.svg)](https://gitter.im/guodongxiaren/README?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) 
- 该文件用来测试和展示书写README的各种markdown语法。GitHub的markdown语法在标准的markdown语法基础上做了扩充，称之为`GitHub Flavored Markdown`。简称`GFM`，GFM在GitHub上有广泛应用，除了README文件外，issues和wiki均支持markdown语法。
-
-****
-|作者|云水禅心| 
-####  [|预览博客|](https://1734320.github.io/)
-
-
- 
-* [01结构设计](#01结构设计) 
  
 #### 01结构设计
 ######  [*老虎板王](http://www.banwangcad.com/index.aspx)    <br> [飞图CAD](https://www.ftcad.com/ "飞图CAD")<br/>
