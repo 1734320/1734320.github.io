@@ -7,6 +7,9 @@
 ######  [老虎板王](http://www.banwangcad.com/index.aspx)
 ######  [飞图CAD](https://www.ftcad.com/)
 ###### [北京峰源腾讯课堂](https://ke.qq.com/course/133303?taid=12328733688072375)
+###### [Msteel工具箱](https://www.msteel.top/)
+
+
 
 ### 02购物类
 ###### [淘宝](https://www.taobao.com/)
@@ -18,13 +21,20 @@
 ###### [直播源TVa](https://1734320.github.io/tva.txt)
 ###### [标准协议直播源多](https://github.com/SPX372928/MyIPTV)
 ###### [分享者](https://www.sharerw.com/)
-
+###### [低端影视](https://ddrk.me/tag/douban-top250/)
+###### [348蓝光电影](https://www.348z.com/)
+###### [猴油中文网](https://bbs.tampermonkey.net.cn/)
+###### [猴油脚本](https://greasyfork.org/en/scripts)
 
 
 
 ### 04软件类
 ###### [吾爱破解](https://www.52pojie.cn/)
+###### [阿里云盘](https://www.aliyundrive.com/drive)
 
+### 05个人类
+###### [电信改套餐](https://hb.189.cn/pages/activity/dxwt/hlwkbg.jsp)
+###### [电信改套餐](https://hb.189.cn/pages/activity/dxwt/hlwkbg.jsp)
 
 
 
