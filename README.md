@@ -3,8 +3,9 @@
 白发渔樵江渚上，惯看秋月春风。一壶浊酒喜相逢。古今多少事，都付笑谈中。
 
 [编辑 GitHub](https://github.com/1734320/1734320.github.io/edit/master/README.md) .
+[Jekyll](https://jekyllrb.com/).
+[TVa](https://1734320.github.io/tva.txt).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
