@@ -1,8 +1,4 @@
-## 临江仙
-### 滚滚长江东逝水， 浪花淘尽英雄。是非成败转头空， 青山依旧在，
-### 几度夕阳红，白发渔樵江渚上，惯看秋月春风，一壶浊酒喜相逢。古今多少事，都付笑谈中。
-
-###  
+ 
 ### 01结构设计
 ######  [老虎板王](http://www.banwangcad.com/index.aspx)
 ######  [飞图CAD](https://www.ftcad.com/)
@@ -48,8 +44,9 @@
 ###### [电信改套餐](https://hb.189.cn/pages/activity/dxwt/hlwkbg.jsp)
 ###### [电信改套餐](https://hb.189.cn/pages/activity/dxwt/hlwkbg.jsp)
 
-
-
+### 06CAD类
+###### cad画图时弹出标注样式管理器,怎么关掉？具体方法：依次在CAD命令栏中输入pickfirst — 回车键 — 1 。qaflags —回车键— 0。
+###### 完美解决：一、双击图纸打开一个新的CAD窗口，解决办法：输入命令taskbar，然后 改成0。 二、dwg文件如何默认探索者2015打开：探索者-工具-选项-文件-支持文件搜索路径-先点添加，出现光标闪烁，点浏览："D:\Program Files\TszCAD\Tssd2015\sys18"-点上移到第一位---再点添加，出现光标闪烁，点浏览："D:\Program Files\TszCAD\Tssd2015\prg"-点上移到第二位--关闭CAD---双击图纸---你会发现默认探索者打开了。
 
 
 
