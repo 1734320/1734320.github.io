@@ -44,6 +44,7 @@
 #### 05个人类
 ###### [电信改套餐](https://hb.189.cn/pages/activity/dxwt/hlwkbg.jsp)
 ###### [住建部](https://www.mohurd.gov.cn/)
+###### ![](http://www.baidu.com/img/bdlogo.gif)
 
 #### 06CAD类
 ###### [我要自学网](https://www.51zxw.net/)
