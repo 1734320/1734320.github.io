@@ -1,6 +1,6 @@
-## 欢迎使用云水的直播源
-滚滚长江东逝水2，浪花淘尽英雄3。是非成败转头空4。青山依旧在5，几度夕阳红6。
-白发渔樵江渚上7，惯看秋月春风8。一壶浊酒喜相逢9。古今多少事10，都付笑谈中11。
+## 临江仙
+滚滚长江东逝水，浪花淘尽英雄。是非成败转头空。青山依旧在，几度夕阳红。
+白发渔樵江渚上，惯看秋月春风。一壶浊酒喜相逢。古今多少事，都付笑谈中。
 
 You can use the [editor on GitHub](https://github.com/1734320/1734320.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
