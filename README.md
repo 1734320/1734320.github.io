@@ -1,8 +1,8 @@
 # 临江仙
 # 滚滚长江东逝水， 浪花淘尽英雄。是非成败转头空， 青山依旧在，
 # 几度夕阳红，白发渔樵江渚上，惯看秋月春风，一壶浊酒喜相逢。古今多少事，都付笑谈中。
-
-[编辑GitHub](https://github.com/1734320/1734320.github.io/edit/master/README.md) .
+######[编辑GitHub](https://github.com/1734320/1734320.github.io/edit/master/README.md) .
+###### [预览GitHub博客](https://1734320.github.io/).
 
 ### 01结构设计
 ######  [老虎板王](http://www.banwangcad.com/index.aspx).
@@ -15,7 +15,7 @@
 
 
 ### 03直播源
-###### [GitHub博客](https://1734320.github.io/).
+
 ######[直播源TVa](https://1734320.github.io/tva.txt).
 ######[标准协议直播源多](https://github.com/SPX372928/MyIPTV).
 ###### [分享者](https://www.sharerw.com/).
