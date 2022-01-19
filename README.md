@@ -13,71 +13,9 @@
 [标准协议直播源多](https://github.com/SPX372928/MyIPTV).
 
 
-{
-    "flag": true,
-    "code": 20000,
-    "message": "查询成功",
-    "data": {
-        "province": "山东",	//省份
-        "city": "临沂市",	//城市
-        "adcode": "371300",	//城市代码
-        "reporttime": "2021-03-30 21:02:38",	//天气预报发布时间
-        "casts": [
-            {
-                "date": "2021-03-30",	//日期
-                "dayweather": "多云",	//白天天气情况
-                "daywind": "东南",	//白天风向
-                "week": "2",	//周几
-                "daypower": "≤3",	//白天风力
-                "daytemp": "21",	//白天气温
-                "nightwind": "东南",	//晚间风向
-                "nighttemp": "8",	//晚间气温
-                "nightweather": "阴",	//晚间天气
-                "nightpower": "≤3"	//晚间风力
-            },
-            {
-                "date": "2021-03-31",
-                "dayweather": "阴",
-                "daywind": "东",
-                "week": "3",
-                "daypower": "4",
-                "daytemp": "20",
-                "nightwind": "东",
-                "nighttemp": "10",
-                "nightweather": "阴",
-                "nightpower": "4"
-            },
-            {
-                "date": "2021-04-01",
-                "dayweather": "阴",
-                "daywind": "东",
-                "week": "4",
-                "daypower": "4",
-                "daytemp": "19",
-                "nightwind": "东",
-                "nighttemp": "11",
-                "nightweather": "小雨",
-                "nightpower": "4"
-            },
-            {
-                "date": "2021-04-02",
-                "dayweather": "小雨",
-                "daywind": "东北",
-                "week": "5",
-                "daypower": "4",
-                "daytemp": "12",
-                "nightwind": "东北",
-                "nighttemp": "10",
-                "nightweather": "小雨",
-                "nightpower": "4"
-            }
-        ],
-    }
-}
 
 
-
-### Markdown
+### Markdown欢迎到访 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
