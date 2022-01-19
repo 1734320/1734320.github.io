@@ -6,7 +6,7 @@
 ### 01结构设计
 ######  [老虎板王](http://www.banwangcad.com/index.aspx)
 ######  [飞图CAD](https://www.ftcad.com/)
-###### [北京峰源腾旭课堂](https://ke.qq.com/course/133303?taid=12328733688072375)
+###### [北京峰源腾讯课堂](https://ke.qq.com/course/133303?taid=12328733688072375)
 
 ### 02购物类
 ###### [淘宝](https://www.taobao.com/)
