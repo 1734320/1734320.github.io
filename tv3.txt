@@ -317,7 +317,7 @@ KBS 国际频道,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworl
 法国24新闻,http://f24hls-i.akamaihd.net:80/hls/live/221147/F24_EN_HI_HLS/01.m3u8
 大视界TV直播,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2F0w4r9uTU_%E5%A4%9C%E5%BA%97_%E6%BD%AE%E6%B5%81%E5%A4%9C%E5%BA%97%E6%B4%BE%E5%AF%B9.mp4
 
-·港台杂类·,#genre#
+港台杂类,#genre#
 凤凰中文台,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8#http://iptv.tvfix.org/hls/fhzw.m3u8#http://live.scuec.edu.cn:8080/hls/fhzw.m3u8
 凤凰资讯台,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8#http://iptv.tvfix.org/hls/fhzx.m3u8#http://ott.js.chinamobile.com/TVOD/3/224/3221228098/index.m3u8
 凤凰香港台,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8#http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
@@ -391,7 +391,7 @@ CNN新闻频道,https://cnn-cnninternational-1-gb.samsung.wurl.com:443/manifest/
 三立财经台,https://iptv.jmsooo.com/live/sli/index.m3u8
 好莱坞电影,http://211.23.114.106:8554/http/116.50.42.19:8081/hls/74/816/ch55.m3u8
 
-·测试频道·,#genre#
+测试频道,#genre#
 翡翠台,http://212.95.133.2/tv/js.php?id=4
 明珠台,http://212.95.133.2/tv/js.php?id=6
 功夫台,http://212.95.133.2/tv/js.php?id=10
@@ -447,7 +447,7 @@ ONE,http://212.95.133.2/tv/js.php?id=115
 HBO,http://212.95.133.2/tv/js.php?id=91
 WWE,http://212.95.133.2/tv/js.php?id=71
 
-·来唱歌吧·,#genre#
+来唱歌吧,#genre#
 孙露·光辉岁月·PO,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FYWXkhEqJ_%E5%AD%99%E9%9C%B2_%E5%85%89%E8%BE%89%E5%B2%81%E6%9C%88.mp4
 崔萍·南屏晚钟·PO,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FLOUtF00L_%E5%B4%94%E8%90%8D%20-%20%E5%8D%97%E5%B1%8F%E6%99%9A%E9%92%9F%28%201080%20X%201920%20%29.mp4
 王杰·冰冷长街·PO,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FptCU2xsd_%E7%8E%8B%E6%9D%B0_%E5%86%B0%E5%86%B7%E9%95%BF%E8%A1%97.mp4
@@ -495,7 +495,7 @@ WWE,http://212.95.133.2/tv/js.php?id=71
 乌兰图雅·站在草原望北京·PO,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FZzz8hKLn_%E4%B9%8C%E5%85%B0%E5%9B%BE%E9%9B%85%20-%20%E7%AB%99%E5%9C%A8%E8%8D%89%E5%8E%9F%E6%9C%9B%E5%8C%97%E4%BA%AC.mp4
 庄心妍·不爱在我的伤口撒盐·PO,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FPKSssz14_%E5%BA%84%E5%BF%83%E5%A6%8D%20-%20%E4%B8%8D%E8%A6%81%E5%9C%A8%E6%88%91%E7%9A%84%E4%BC%A4%E5%8F%A3%E6%92%92%E7%9B%90.mp4
 
-·来慢摇吧·,#genre#
+来慢摇吧,#genre#
 花姐·狂狼·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FUDmNsLXn_%E8%8A%B1%E5%A7%90_%E7%8B%82%E6%B5%AADJ%E4%B8%80%E7%89%88.mp4
 暴林·殇雪·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2F4ZOjjrs8_%E6%9A%B4%E6%9E%97_%E6%AE%87%E9%9B%AADJ.mp4
 曹锦·坦荡·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FUU01iOac_%E6%9B%B9%E9%94%A6_%E5%9D%A6%E8%8D%A1DJ.mp4
@@ -546,4 +546,4 @@ WWE,http://212.95.133.2/tv/js.php?id=71
 黎明前的欢乐,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FOQBhvm7o_%E5%97%A8%E8%88%9E_%E9%BB%8E%E6%98%8E%E5%89%8D%E7%9A%84%E6%B3%B0%E5%9B%BD%E7%BE%8E%E7%9C%89.mp4
 俱乐部的一天,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FM44cskhz_%E5%A4%9C%E5%BA%97_%E4%BF%B1%E4%B9%90%E9%83%A8%E7%9A%84%E4%B8%80%E5%A4%A9.mp4
 合唱·情火·DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2FD0z62pdk_%E5%B4%94%E4%BC%9F%E7%AB%8BVS%E5%AD%99%E8%89%BA%E7%90%AA_%E6%83%85%E7%81%ABDJ.mp4
-+ 将图片拖拽到这里添加到  西瓜插件 | 采集库
+
