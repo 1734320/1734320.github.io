@@ -20,7 +20,7 @@
 
 
 #### 03直播源
-###### [直播源TVa](https://1734320.github.io/tva.txt)
+###### [直播源TVa](https://1734320.github.io/tv1.txt)
 ###### [标准协议直播源多](https://github.com/SPX372928/MyIPTV)
 
 ###### [分享者](https://www.sharerw.com/)
