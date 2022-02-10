@@ -4,6 +4,10 @@
 ######  --------------------[GitHub代码教程](https://github.com/guodongxiaren/README/blob/master/README.md)--------------------
 
 #### 01结构设计
+
+
+
+######  [建筑英才网](https://www.buildhr.com/) 
 ######  [老虎板王](http://www.banwangcad.com/index.aspx)    
 ######  [飞图CAD](https://www.ftcad.com/ "飞图CAD")
 ######  [北京峰源腾讯课堂](https://ke.qq.com/course/133303?taid=12328733688072375)        
@@ -11,6 +15,7 @@
 ######  [易出图](https://www.cadprint.cn/)   
 ######  [BatchPlot批量打印软](https://www.cadprint.cn/)
 ######  [cadt应用云](http://atlisp.cn/)
+######  [郎筑结构](http://www.structure.com.cn/list/48.html)
 
 
 
