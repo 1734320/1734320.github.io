@@ -5,7 +5,7 @@
 
 #### 01结构设计
 
-
+######  [地震动参数18306](http://www.gb18306.net/) 
 
 ######  [建筑英才网](https://www.buildhr.com/) 
 ######  [老虎板王](http://www.banwangcad.com/index.aspx)    
