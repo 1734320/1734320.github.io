@@ -33,6 +33,8 @@
 ###### [分享者](https://www.sharerw.com/)
 ###### [低端影视](https://ddrk.me/tag/douban-top250/)
 ###### [348蓝光电影](https://www.348z.com/)
+
+###### [奈菲蓝光电影](http://www.1985.one/vodtype/1.html)
 ###### [猴油中文网](https://bbs.tampermonkey.net.cn/)
 ###### [猴油脚本](https://greasyfork.org/en/scripts)
 ###### [视界家](http://www.shijiejia.vip/download/)
