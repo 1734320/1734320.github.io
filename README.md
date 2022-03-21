@@ -66,7 +66,8 @@
 ###### [04教你一招，把 Win10 更新暂停到 N 年后的神奇方法](https://zhuanlan.zhihu.com/p/100938150?utm_source=wechat_session)
 
 #### 05个人类
-###### [电信改套餐](https://hb.189.cn/pages/activity/dxwt/hlwkbg.jsp)
+
+###### [国家小学智慧教育平台](https://h5.zxx.edu.cn/syncClassroom)
 ###### [住建部](https://www.mohurd.gov.cn/)
 ###### [百度](https://www.baidu.com/)
 
