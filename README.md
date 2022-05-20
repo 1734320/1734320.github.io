@@ -6,7 +6,7 @@
 #### 01结构设计
 
 
-######  [老虎板王有声视频]([http://www.gb18306.net/](https://www.bilibili.com/video/BV1At411y7CQ?p=3)) 
+######  [老虎板王有声视频](https://www.bilibili.com/video/BV1At411y7CQ?p=3)
 
 ######  [站在巨人的肩膀上之解密CADKING绘图法](https://space.bilibili.com/703060825/channel/seriesdetail?sid=748501) 
 ######  [地震动参数18306](http://www.gb18306.net/) 
