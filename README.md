@@ -5,7 +5,7 @@
 
 #### 01结构设计
 
-
+######[探索者校审系统 V2022 新规范版](https://www.bilibili.com/video/BV15B4y1m7of?spm_id_from=333.999.0.0)
 ######  [老虎板王有声视频](https://www.bilibili.com/video/BV1At411y7CQ?p=3)
 
 ######  [站在巨人的肩膀上之解密CADKING绘图法](https://space.bilibili.com/703060825/channel/seriesdetail?sid=748501) 
@@ -14,6 +14,8 @@
 ######  [建筑英才网](https://www.buildhr.com/) 
 ######  [老虎板王](http://www.banwangcad.com/index.aspx)    
 ######  [飞图CAD](https://www.ftcad.com/ "飞图CAD")
+######  [飞图CAD哔哩哔哩]((https://space.bilibili.com/1517096196))
+
 ######  [北京峰源腾讯课堂](https://ke.qq.com/course/133303?taid=12328733688072375)        
 ######  [Msteel工具箱](https://www.msteel.top/)
 ######  [易出图](https://www.cadprint.cn/)   
