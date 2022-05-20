@@ -5,7 +5,7 @@
 
 #### 01结构设计
 
-######[探索者校审系统 V2022 新规范版](https://www.bilibili.com/video/BV15B4y1m7of?spm_id_from=333.999.0.0)
+###### [探索者校审系统 V2022 新规范版](https://www.bilibili.com/video/BV15B4y1m7of?spm_id_from=333.999.0.0)
 ######  [老虎板王有声视频](https://www.bilibili.com/video/BV1At411y7CQ?p=3)
 
 ######  [站在巨人的肩膀上之解密CADKING绘图法](https://space.bilibili.com/703060825/channel/seriesdetail?sid=748501) 
