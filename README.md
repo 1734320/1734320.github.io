@@ -5,7 +5,7 @@
 
 #### 01结构设计
 
-###### [AST胡工](https://i.youku.com/i/UMjg0Mzk1NDc0MA==?spm=a2h1n.8251843.0.0))
+###### [AST胡工](https://i.youku.com/i/UMjg0Mzk1NDc0MA==?spm=a2h1n.8251843.0.0)
 
 ###### [峰源哔哩哔哩](https://space.bilibili.com/1072605650?spm_id_from=333.337.search-card.all.click)
 
