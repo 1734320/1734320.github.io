@@ -7,6 +7,8 @@
 
 ###### [AST胡工](https://i.youku.com/i/UMjg0Mzk1NDc0MA==?spm=a2h1n.8251843.0.0)
 
+###### [站在巨人的肩膀上之经验总结](https://bbs.co188.com/thread-8906533-1-1.html)
+
 ###### [峰源哔哩哔哩](https://space.bilibili.com/1072605650?spm_id_from=333.337.search-card.all.click)
 
 ###### [探索者校审系统 V2022 新规范版](https://www.bilibili.com/video/BV15B4y1m7of?spm_id_from=333.999.0.0)
