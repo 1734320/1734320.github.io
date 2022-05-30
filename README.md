@@ -66,6 +66,10 @@
 
 ###### [程序员原版系统之家](https://msdn.itellyou.cn/)
 
+###### [微PE工具箱](https://www.wepe.com.cn/)
+###### [cmdpE工具箱](https://www.cmdpe.com/)
+
+
 ###### [原版系统之家](https://msdn.pe8.com/win10.html)
 ###### [微信](https://weixin.qq.com/)
 ###### [QQ](https://im.qq.com/pcqq)
