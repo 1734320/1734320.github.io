@@ -64,6 +64,9 @@
 
 #### 04软件装机
 
+win10激活
+https://cmwtat.cloudmoe.com/cn.html
+
 ###### [程序员原版系统之家](https://msdn.itellyou.cn/)
 
 ###### [微PE工具箱](https://www.wepe.com.cn/)
