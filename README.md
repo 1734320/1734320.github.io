@@ -25,7 +25,7 @@
 ######  [建筑英才网](https://www.buildhr.com/) 
 ######  [老虎板王](http://www.banwangcad.com/index.aspx)    
 ######  [飞图CAD](https://www.ftcad.com/ "飞图CAD")
-######  [飞图CAD哔哩哔哩]((https://space.bilibili.com/1517096196))
+######  [飞图CAD哔哩哔哩](https://space.bilibili.com/1517096196)
 
 ######  [北京峰源腾讯课堂](https://ke.qq.com/course/133303?taid=12328733688072375)        
 ######  [Msteel工具箱](https://www.msteel.top/)
