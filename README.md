@@ -5,9 +5,11 @@
 
 #### 01结构设计
 
+###### [陈学伟的博客](http://www.dinochen.com/article.asp?id=19)
+
+
 ###### [AST胡工](https://i.youku.com/i/UMjg0Mzk1NDc0MA==?spm=a2h1n.8251843.0.0)
-老虎板王相对探索者的优势(个人理解)
-https://wenku.baidu.com/view/79e3905b8d9951e79b89680203d8ce2f006665ec.html
+老虎板王相对探索者的优势个人理解 (https://wenku.baidu.com/view/79e3905b8d9951e79b89680203d8ce2f006665ec.html)
 
 ###### [站在巨人的肩膀上之经验总结](https://bbs.co188.com/thread-8906533-1-1.html)
 
