@@ -39,7 +39,7 @@
 
 #### 02a cad
 ######  [cad之家](http://www.cadzj.com/)
-######  [AutoCAD精简绿色软件大全](http://www.cadzj.com/](http://www.uzzf.com/key/AutoCAD/)
+######  [AutoCAD精简绿色软件大全](http://www.uzzf.com/key/AutoCAD/)
 
 #### 02购物类
 ###### [淘宝](https://www.taobao.com/)
