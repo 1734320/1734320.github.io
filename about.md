@@ -128,6 +128,10 @@ https://cmwtat.cloudmoe.com/cn.html
 
 
 
+####   cad2022设置
+######  AutoCAD2022怎么关闭开始选项卡，在如图所示命令行输入“STARTMODE”，并确定，提示“输入新值”，输入数值0，按Enter键确认。
+######  STARTUP 改为0
+######  取消被选中亮显SELECTIONEFFECT改为0
 
 
 
