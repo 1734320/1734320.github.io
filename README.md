@@ -114,6 +114,10 @@ https://cmwtat.cloudmoe.com/cn.html
 ###### cad画图时弹出标注样式管理器,怎么关掉？具体方法：依次在CAD命令栏中输入pickfirst — 回车键 — 1 。qaflags —回车键— 0。
 ###### 完美解决：一、双击图纸打开一个新的CAD窗口，解决办法：输入命令taskbar，然后 改成0。 二、dwg文件如何默认探索者2015打开：探索者-工具-选项-文件-支持文件搜索路径-先点添加，出现光标闪烁，点浏览："D:\Program Files\TszCAD\Tssd2015\sys18"-点上移到第一位---再点添加，出现光标闪烁，点浏览："D:\Program Files\TszCAD\Tssd2015\prg"-点上移到第二位--关闭CAD---双击图纸---你会发现默认探索者打开了。
 
+####   cad2022设置
+######  AutoCAD2022怎么关闭开始选项卡，在如图所示命令行输入“STARTMODE”，并确定，提示“输入新值”，输入数值0，按Enter键确认。
+######  STARTUP 改为0
+######  取消被选中亮显SELECTIONEFFECT改为0
 
 
 
