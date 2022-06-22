@@ -138,6 +138,16 @@ description: "一 叶 知 秋"
   <p>AutoCAD2022怎么关闭开始选项卡，在如图所示命令行输入“STARTMODE”，输入数值0。STARTUP 改为0。</p>
    <p>取消被选中亮显SELECTIONEFFECT改为0 。</p> 
 
+Win+R，输入regedit并打开
+
+复制路径并进入
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System
+
+将EnableLUA中的数值数据改为0
+
+重启计算机
+
+
 
 <hr>
 {% endfor %}
