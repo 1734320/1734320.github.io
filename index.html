@@ -236,8 +236,15 @@ TSSDPro&nbsp;
 
 <p> 模型空间单位的数目。 <1.0>: 输入值或按 ENTER 键   </p>                                                   
                                                          
+<h4> 4，cad卸载导致无法安装，注册表没清干净解决办法 &nbsp;</h4>  
                                                          
-                                                         
+                                                            
+  <p>       打开注册表删除CAD无用的注册表信息即可。方法步骤：</p>  
+  <p> 1、win+R输入“regedit”回车，度打开注册表，找到下面的注册表路径：?</p>  
+  <p> 删除HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\autocad文件夹</p>  
+ <p>2、继续删除HKEY_LOCAL_MACHINE\SOFTWARE\Classes\installer\Products 的下面，“7D2F38751008****”开头答的键值（文件夹）</p>  
+ <p>下面重点：回若没有7D开头的，找FEE98B82100****D7删除，不用重启电脑即可。</p>  
+                                               
 
 
 
